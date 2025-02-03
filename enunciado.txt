@@ -1,0 +1,13 @@
+Practica Del ADN:
+Tenemos Las Siguientes 4 Bases Las Cuales Estan Formados El ADN.
+
+Segun Se Nos Plantea Tenemos Los Siguientes Elementos De La Array.
+
+Adenina (A)
+Citosina (C)
+Guanina (G)
+Timina (T)
+
+El Conjunto De Estas 4 Bases Representa La Composición Genética Única De La Mayoría De Los Seres Vivos.
+Se Me Plantea Realizar Un Array Llamado "miADN" Con 24 Elementos, Generados Aleatoriamente A Partir De Estas Bases.
+
